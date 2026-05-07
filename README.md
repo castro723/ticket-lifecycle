@@ -27,7 +27,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<img width="657" height="504" alt="Screenshot 2026-05-07 at 10 11 52 AM" src="https://github.com/user-attachments/assets/6392d641-4073-4a55-935f-5bd0ab1e621b" />
+<img width="575" height="488" alt="Screenshot 2026-05-07 at 10 25 59 AM" src="https://github.com/user-attachments/assets/0ccf6e9a-deff-4e92-bd56-599035fc7b67" />
+
 
 The intake phase of the osTicket lifecycle is when a customer or user first submits a support request. The system gathers issue details, creates a ticket, assigns basic categories or priorities, and routes the request into the help desk workflow for technicians to handle.
 </p>
