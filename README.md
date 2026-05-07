@@ -51,3 +51,7 @@ This screenshot demonstrates the assignment and communication phase of the osTic
 This screenshot demonstrates the ‘Working the Issue’ phase of the osTicket lifecycle, where the technician actively troubleshoots the problem, documents actions taken, and communicates progress updates within the ticket.
 </p>
 <br />
+
+<img width="654" height="282" alt="Screenshot 2026-05-07 at 10 42 16 AM" src="https://github.com/user-attachments/assets/6f5633ff-39dd-46dd-98d2-464c1b948be2" />
+
+This screenshot demonstrates the Resolution/Closure phase of the osTicket lifecycle. The technician resolved the issue, documented the solution, and closed the support ticket after confirming the problem was fixed.
