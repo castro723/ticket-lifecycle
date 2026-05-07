@@ -39,7 +39,7 @@ The intake phase of the osTicket lifecycle is when a customer or user first subm
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot demonstrates the assignment and communication phase of the osTicket lifecycle. The support ticket has been assigned to a technician, and communication between the help desk and the user is being documented within the ticket thread.
 </p>
 <br />
 
