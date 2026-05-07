@@ -44,9 +44,10 @@ This screenshot demonstrates the assignment and communication phase of the osTic
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="654" height="472" alt="Screenshot 2026-05-07 at 10 36 44 AM" src="https://github.com/user-attachments/assets/d7b9c05f-0f0d-4caa-8be4-398fa538c64c" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot demonstrates the ‘Working the Issue’ phase of the osTicket lifecycle, where the technician actively troubleshoots the problem, documents actions taken, and communicates progress updates within the ticket.
 </p>
 <br />
